@@ -136,6 +136,7 @@ p {
 }
 
 .search-engine-optimization {
+    float: left;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -145,6 +146,7 @@ p {
 }
 
 .online-reputation-management {
+    float: left;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -154,6 +156,7 @@ p {
 }
 
 .social-media-marketing {
+    float: left;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
